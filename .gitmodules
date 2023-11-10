@@ -1,0 +1,3 @@
+[submodule "ft_transcendence-backend"]
+	path = ft_transcendence-backend
+	url = https://github.com/prmarquesz/ft_transcendence-backend.git
